@@ -16,33 +16,40 @@ footer{
 	text-transform: uppercase;
 }
 
+#chapter-18 blockquote{
+	text-align:center
+}
+
 /* letter specific stuff */
+#chapter-18 blockquote[epub|type~="z3998:letter"]{
+	margin-top: 1em;
+	text-align: initial;
+}
+
 [epub|type~="z3998:letter"]{
 	margin-top: 1em;
-	font-size: smaller;
 }
 
 [epub|type~="se:letter.dateline"]{
 	text-align: center;
-	font-size: medium;
 }
 
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 	text-align: initial;
 }
+
 
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
+	text-indent: 0;
 	font-variant: small-caps;
-	font-size: medium;
 }
 /* end letter classes */
 
