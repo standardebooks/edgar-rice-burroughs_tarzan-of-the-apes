@@ -17,7 +17,7 @@ footer{
 }
 
 #chapter-18 blockquote{
-	text-align:center
+	text-align: center;
 }
 
 /* letter specific stuff */
@@ -42,7 +42,6 @@ footer{
 	text-indent: 0;
 	text-align: initial;
 }
-
 
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],

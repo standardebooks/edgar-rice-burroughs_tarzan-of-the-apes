@@ -50,9 +50,18 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">The origin and early adventures of Tarzan, an orphaned English baby raized by apes in Africa.</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<dc:description id="description">The adventures of a man who, orphaned as a baby, is raised by apes in Africa.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The story of Tarzan of the Apes: when an English aristocratic baby becomes orphaned, he is raised by apes in the equitorial African jungle. As he grows he discovers he is human, different from his anthropoid companions, and learns and develops human traits yet retains his primitive skills and physical prowess. Coming into contact with humans brings many conflicts, adventures, wonders and triumphs. Tarzan becomes a symbol to those he encounters of the natural man, contrasting with the shortcomings and perfidities of human society.&lt;/p&gt;
+			&lt;p&gt;An English aristocratic baby becomes orphaned in the equatorial African jungle and is raised by apes. 
+			As he grows he discovers he is human, different from his anthropoid companions. He learns and develops human traits
+			yet retains his primitive skills and physical prowess. Coming into contact with humans brings many conflicts, 
+			adventures, wonders and triumphs. To those he encounters he becomes a symbol of the natural man, contrasting 
+			with the shortcomings and perfidies of human society.&lt;br/&gt;
+			After the book's considerable success, the author wrote numerous sequels. The enduring popularity of this
+			archetypal character has inspired innumerable movies, radio and television shows, comics and other works.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/78</dc:source>
