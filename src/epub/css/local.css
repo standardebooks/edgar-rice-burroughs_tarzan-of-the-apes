@@ -6,28 +6,21 @@ footer{
 	text-align: right;
 }
 
-#chapter-9 blockquote{
-	text-align: center;
-}
-
-#chapter-13 blockquote,
-#chapter-7 blockquote{
-	text-align: center;
-	text-transform: uppercase;
-}
-
+#chapter-9 blockquote,
 #chapter-18 blockquote{
 	text-align: center;
+}
+
+#chapter-7 blockquote,
+#chapter-13 blockquote{
+	text-align: center;
+	font-variant: small-caps;
 }
 
 /* letter specific stuff */
 #chapter-18 blockquote[epub|type~="z3998:letter"]{
 	margin-top: 1em;
 	text-align: initial;
-}
-
-[epub|type~="z3998:letter"]{
-	margin-top: 1em;
 }
 
 [epub|type~="se:letter.dateline"]{
