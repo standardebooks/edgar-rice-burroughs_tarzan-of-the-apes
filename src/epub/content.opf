@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-of-the-apes</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-12-23T19:26:17Z</dc:date>
+		<meta property="dcterms:modified">2021-12-23T19:26:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -53,17 +52,16 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">The adventures of a man who, orphaned as a baby, is raised by apes in Africa.</dc:description>
+		<dc:description id="description">An orphan is raised by apes in Africa and goes on various adventures.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;An English aristocratic baby becomes orphaned in the equatorial African jungle and is raised by apes. As he grows he discovers he is human, different from his anthropoid companions. He learns and develops human traits yet retains his primitive skills and physical prowess. Coming into contact with humans brings many conflicts, adventures, wonders and triumphs. To those he encounters he becomes a symbol of the natural man, contrasting with the shortcomings and perfidies of human society.&lt;br/&gt; After the book’s considerable success, the author wrote numerous sequels. The enduring popularity of this archetypal character has inspired innumerable movies, radio and television shows, comics and other works.&lt;/p&gt;
-
+			&lt;p&gt;The baby of an English aristocratic family becomes orphaned in the equatorial African jungle, and is raised by apes. As he grows up he discovers he is human, and very different from his anthropoid companions. He learns and develops human traits, yet retains his primitive skills and physical prowess. As he comes into contact with other humans, conflict, adventure, wonder, and triumph result. To those he encounters, Tarzan becomes a symbol of the natural man, contrasting with the shortcomings and perfidies of human society.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/78</dc:source>
 		<dc:source>https://archive.org/details/tarzanoftheapes00burrrich</dc:source>
 		<meta property="se:production-notes">The Gutenberg edition has removed or reworked some archaic and overwrought passages and expressions. The original paragraph structure has been restored, some semicolons or commas are editorially restored as per the original, as are some em dashes for swear words in dialog.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">86639</meta>
+		<meta property="se:reading-ease.flesch">67.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan_of_the_Apes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_tarzan-of-the-apes</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -84,6 +82,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
