@@ -13,8 +13,8 @@ footer{
 
 #chapter-7 blockquote,
 #chapter-13 blockquote{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 /* letter specific stuff */
@@ -32,16 +32,16 @@ footer{
 }
 
 [epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
-	text-indent: 0;
 	font-variant: small-caps;
+	text-indent: 0;
 }
 /* end letter classes */
 
