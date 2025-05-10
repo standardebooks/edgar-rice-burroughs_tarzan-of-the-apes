@@ -43,6 +43,10 @@ footer{
 	font-variant: small-caps;
 	text-indent: 0;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
 /* end letter classes */
 
 [epub|type~="z3998:poem"] p{
