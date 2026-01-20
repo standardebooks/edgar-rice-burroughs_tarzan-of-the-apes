@@ -60,7 +60,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/78</dc:source>
 		<dc:source>https://archive.org/details/tarzanoftheapes00burrrich</dc:source>
 		<meta property="se:production-notes">The Gutenberg edition has removed or reworked some archaic and overwrought passages and expressions. The original paragraph structure has been restored, some semicolons or commas are editorially restored as per the original, as are some em dashes for swear words in dialog.</meta>
-		<meta property="se:word-count">86643</meta>
+		<meta property="se:word-count">85971</meta>
 		<meta property="se:reading-ease.flesch">67.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan_of_the_Apes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_tarzan-of-the-apes</meta>
