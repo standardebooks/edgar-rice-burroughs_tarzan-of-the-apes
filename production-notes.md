@@ -1,0 +1,1 @@
+The Gutenberg edition has removed or reworked some archaic and overwrought passages and expressions. The original paragraph structure has been restored, some semicolons or commas are editorially restored as per the original, as are some em dashes for swear words in dialog.
