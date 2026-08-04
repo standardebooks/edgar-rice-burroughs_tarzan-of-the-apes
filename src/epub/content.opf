@@ -53,7 +53,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>An orphan is raised by apes in Africa and goes on various adventures.</dc:abstract>
+		<meta property="schema:abstract">An orphan is raised by apes in Africa and goes on various adventures.</meta>
 		<dc:description>
 			&lt;p&gt;The baby of an English aristocratic family becomes orphaned in the equatorial African jungle, and is raised by apes. As he grows up he discovers he is human, and very different from his anthropoid companions. He learns and develops human traits, yet retains his primitive skills and physical prowess. As he comes into contact with other humans, conflict, adventure, wonder, and triumph result. To those he encounters, Tarzan becomes a symbol of the natural man, contrasting with the shortcomings and perfidies of human society.&lt;/p&gt;
 		</dc:description>
