@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Tarzan of the Apes</dc:title>
 		<meta property="file-as" refines="#title">Tarzan of the Apes</meta>
-		<dc:subject id="subject-1">Tarzan (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Africa -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Tarzan (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-2">Africa--Fiction</dc:subject>
 		<dc:subject id="subject-3">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-4">Adventure stories</dc:subject>
-		<dc:subject id="subject-5">British -- Africa -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Wild men -- Fiction</dc:subject>
+		<dc:subject id="subject-5">British--Africa--Fiction</dc:subject>
+		<dc:subject id="subject-6">Wild men--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
