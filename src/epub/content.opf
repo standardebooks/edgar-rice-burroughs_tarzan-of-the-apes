@@ -73,7 +73,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Henri Rousseau</dc:contributor>
-		<meta property="file-as" refines="#artist">post-impressionist painter</meta>
+		<meta property="file-as" refines="#artist">Rousseau, Henri</meta>
 		<link href="https://en.wikipedia.org/wiki/Henri_Rousseau" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79126804.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
